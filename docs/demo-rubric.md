@@ -1,4 +1,4 @@
-<table style="overflow: visible" ><thead>
+<table><thead>
   <tr>
     <th  colspan="2">Criteria</th>
     <th  colspan="2">Did not accomplish</th>
