@@ -1,4 +1,4 @@
-<table ><thead>
+<table style="width: 100%" ><thead>
   <tr>
     <th  colspan="2">Criteria</th>
     <th  colspan="2">Did not accomplish</th>
